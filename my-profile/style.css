@@ -1,0 +1,30 @@
+body {
+ 
+color: rgb(10, 10, 10);     
+	background-color:   
+}
+body {
+  font-family: font-family: Arial,
+  }
+
+  h1, h2, h3 {
+  font-family: "Helvetica", sans-serif; 
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+ .img-circle {
+  border-radius: 50%;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
